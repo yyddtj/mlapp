@@ -1,0 +1,195 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://www.acgfun.net/",
+            "path": "index.html",
+            "saved": true,
+            "size": 21235,
+            "children": [
+                {
+                    "url": "https://www.acgfun.net/sakurashow_files/dot-light.png",
+                    "path": "img/dot-light.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.acgfun.net/sakurashow_files/dwn-shu.png",
+                    "path": "img/dwn-shu.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.acgfun.net/sakurashow_files/logo.png",
+                    "path": "img/logo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.acgfun.net/sakurashow_files/andwn.png",
+                    "path": "img/andwn.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.acgfun.net/sakurashow_files/andwnh.png",
+                    "path": "img/andwnh.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.acgfun.net/sakurashow_files/ios_dwn.png",
+                    "path": "img/ios_dwn.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.acgfun.net/sakurashow_files/ios_dwnh.png",
+                    "path": "img/ios_dwnh.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.acgfun.net/sakurashow_files/jie.png",
+                    "path": "img/jie.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.acgfun.net/sakurashow_files/01_07.png",
+                    "path": "img/01_07.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.acgfun.net/sakurashow_files/03_14.png",
+                    "path": "img/03_14.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.acgfun.net/sakurashow_files/mei.png",
+                    "path": "img/mei.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.acgfun.net/sakurashow_files/04_17.png",
+                    "path": "img/04_17.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.acgfun.net/sakurashow_files/06_14.png",
+                    "path": "img/06_14.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.acgfun.net/sakurashow_files/dwn-line-left.png",
+                    "path": "img/dwn-line-left.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.acgfun.net/sakurashow_files/dwn-line-right.png",
+                    "path": "img/dwn-line-right.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.acgfun.net/sakurashow_files/analytics.js",
+                    "path": "js/analytics.js",
+                    "saved": true,
+                    "size": 49529,
+                    "children": []
+                },
+                {
+                    "url": "https://www.acgfun.net/sakurashow_files/google_ga3.js",
+                    "path": "js/google_ga3.js",
+                    "saved": true,
+                    "size": 392,
+                    "children": []
+                },
+                {
+                    "url": "https://www.acgfun.net/sakurashow_files/jquery-1.11.1.min.js",
+                    "path": "js/jquery-1.11.1.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "www-acgfun-net-kuftij1v",
+    "info": {
+        "remark": [],
+        "title": "AcgFun资源网-动漫游戏下载   (=￣ω￣=)喵了个咪~ ",
+        "domain": "www.acgfun.net",
+        "origin": "https://www.acgfun.net",
+        "ip": "176.113.68.208",
+        "main": "index.html",
+        "url": "https://www.acgfun.net/",
+        "totalSize": "71.2 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://www.acgfun.net/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://www.acgfun.net/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Sun, 06 Nov 2022 09:14:05 GMT",
+                "content-type": "text/html",
+                "content-length": "23438",
+                "last-modified": "Thu, 03 Nov 2022 18:23:06 GMT",
+                "connection": "close",
+                "vary": "Accept-Encoding",
+                "etag": "\"6364070a-5b8e\"",
+                "accept-ranges": "bytes"
+            }
+        },
+        "time": {
+            "start": "2022-11-06T09:14:07.929Z",
+            "end": "2022-11-06T09:14:13.631Z"
+        }
+    },
+    "options": {
+        "url": "https://www.acgfun.net/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
